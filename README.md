@@ -2,7 +2,7 @@
 
 ## Installation
 
-1. Copy skalisty-bunker.json to your custom folder.
+1. Copy skalisty-bunker.json and skalisty-bunker-pra.json to your custom folder.
 2. Add the following to your cfggameplay.json object spawner array.
 ```json
 {
@@ -14,10 +14,21 @@
   }
 }
 ```
-3. Add the lines in mapgroupproto-entries.txt to your mapgroupproto.xml file.
-4. Add the lines in mapgrouppos-entries.txt to your mapgrouppos.xml file.
-5. Add the lines in undergroundtrigger-entries.txt to your cfgundergroundtriggers.json file.
-6. Optional: Replace your areaflags.map with the one from this repo to make Skalisty island a Tier 4 zone.
+3. Add the following to your cfggameplay.json playerRestrictedAreaFiles array.
+```json
+{
+  "WorldsData":
+  {
+    "playerRestrictedAreaFiles": [
+      "./custom/skalisty-bunker-pra.json"
+    ]
+  }
+}
+```
+4. Add the lines in mapgroupproto-entries.txt to your mapgroupproto.xml file.
+5. Add the lines in mapgrouppos-entries.txt to your mapgrouppos.xml file.
+6. Add the lines in undergroundtrigger-entries.txt to your cfgundergroundtriggers.json file.
+7. Optional: Replace your areaflags.map with the one from this repo to make Skalisty island a Tier 4 zone.
 
 ## Accessing the Bunker
 You will need to provide a way for your players to obtain a punch card to access the main part of the bunker, and a red shipping container key to access the lowest part of the bunker. You can add the following entries to your db/types.xml file to have them spawn in contaminated areas, or you can come up with something more creative.
