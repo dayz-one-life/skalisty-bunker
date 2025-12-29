@@ -1,0 +1,8356 @@
+{
+  "Objects": [
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13663.52734375,
+        51.9860954284668,
+        3066.678466796875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999971985816956,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13669.5107421875,
+        52.035335540771484,
+        3066.678466796875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999982118606567,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3f.p3d",
+      "pos": [
+        13687.642578125,
+        17.134010314941406,
+        3198.56298828125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13619.388671875,
+        52.492862701416016,
+        3096.02880859375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999979734420776,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3f.p3d",
+      "pos": [
+        13630.173828125,
+        53.07554626464844,
+        3125.835205078125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13621.828125,
+        52.411216735839844,
+        3091.1416015625
+      ],
+      "ypr": [
+        45,
+        0,
+        0
+      ],
+      "scale": 0.9999999403953552,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+      "pos": [
+        13715.560546875,
+        38.19691467285156,
+        3175.69140625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13628.1845703125,
+        52.411216735839844,
+        3084.783935546875
+      ],
+      "ypr": [
+        45,
+        0,
+        0
+      ],
+      "scale": 0.9999999403953552,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fc.p3d",
+      "pos": [
+        13708.8408203125,
+        38.293392181396484,
+        3180.87548828125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13632.0869140625,
+        52.172454833984375,
+        3080.989501953125
+      ],
+      "ypr": [
+        45,
+        0,
+        0
+      ],
+      "scale": 0.9999999403953552,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Stairs_Collapsed",
+      "pos": [
+        13677.7998046875,
+        34.540000915527344,
+        3171.10009765625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2f.p3d",
+      "pos": [
+        13708.23828125,
+        38.860496520996094,
+        3186.921142578125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fb.p3d",
+      "pos": [
+        13702.76171875,
+        40.19744873046875,
+        3188.55029296875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+      "pos": [
+        13700.2802734375,
+        38.336647033691406,
+        3178.177734375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+      "pos": [
+        13691.9912109375,
+        38.61405944824219,
+        3175.95947265625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13653.3212890625,
+        29.019344329833984,
+        3184.97314453125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999986290931702,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fc.p3d",
+      "pos": [
+        13681.767578125,
+        38.57080078125,
+        3181.874267578125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fb.p3d",
+      "pos": [
+        13649.7841796875,
+        52.323307037353516,
+        3113.63232421875
+      ],
+      "ypr": [
+        -147.84486389160156,
+        0.0010579340159893036,
+        0.0011542905122041702
+      ],
+      "scale": 0.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3f.p3d",
+      "pos": [
+        13655.462890625,
+        23.42428970336914,
+        3191.774169921875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Mil_Fortified_Nest_Big",
+      "pos": [
+        13641.9912109375,
+        42.19671630859375,
+        3032.768798828125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fb.p3d",
+      "pos": [
+        13688.955078125,
+        40.474857330322266,
+        3182.530029296875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Wreck_offroad02_aban1",
+      "pos": [
+        13649.54296875,
+        43.276634216308594,
+        3045.987548828125
+      ],
+      "ypr": [
+        -79.56643676757812,
+        0,
+        0
+      ],
+      "scale": 0.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2f.p3d",
+      "pos": [
+        13695.6396484375,
+        39.13790512084961,
+        3183.9794921875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Wreck_offroad02_aban2",
+      "pos": [
+        13642.8134765625,
+        42.92121887207031,
+        3046.419189453125
+      ],
+      "ypr": [
+        -102.55509948730469,
+        0,
+        0
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fc.p3d",
+      "pos": [
+        13693.318359375,
+        38.570796966552734,
+        3189.32373046875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_wreck_truck01_aban1_green",
+      "pos": [
+        13655.716796875,
+        41.804718017578125,
+        3038.457763671875
+      ],
+      "ypr": [
+        -60.82301712036133,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+      "pos": [
+        13715.671875,
+        38.19691467285156,
+        3148.415283203125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fc.p3d",
+      "pos": [
+        13714.8544921875,
+        38.15365982055664,
+        3155.5595703125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+      "pos": [
+        13687.71484375,
+        38.54400634765625,
+        3134.28759765625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fc.p3d",
+      "pos": [
+        13690.09375,
+        38.293392181396484,
+        3124.0068359375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fb.p3d",
+      "pos": [
+        13694.927734375,
+        40.19744873046875,
+        3126.229248046875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2f.p3d",
+      "pos": [
+        13698.494140625,
+        38.860496520996094,
+        3123.832275390625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fb.p3d",
+      "pos": [
+        13703.2705078125,
+        40.124935150146484,
+        3122.19140625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Stairs_Collapsed",
+      "pos": [
+        13653.2001953125,
+        34.540000915527344,
+        3120.139892578125
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fc.p3d",
+      "pos": [
+        13705.1298828125,
+        38.293392181396484,
+        3127.611572265625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+      "pos": [
+        13655.822265625,
+        48.950157165527344,
+        3179.448974609375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3f.p3d",
+      "pos": [
+        13714.3740234375,
+        10.415634155273438,
+        3205.04296875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fb.p3d",
+      "pos": [
+        13707.732421875,
+        12.220939636230469,
+        3206.73486328125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3s.p3d",
+      "pos": [
+        13721.73046875,
+        5.605861663818359,
+        3203.896240234375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3f.p3d",
+      "pos": [
+        13645.7529296875,
+        25.08621597290039,
+        3191.453125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fc.p3d",
+      "pos": [
+        13712.689453125,
+        9.207351684570312,
+        3212.384033203125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3f.p3d",
+      "pos": [
+        13703.8046875,
+        13.751861572265625,
+        3215.13037109375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Donjon",
+      "pos": [
+        13631.951171875,
+        44.051483154296875,
+        3071.7236328125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3s.p3d",
+      "pos": [
+        13696.017578125,
+        40.69829559326172,
+        3142.427734375
+      ],
+      "ypr": [
+        -178.48204040527344,
+        0.0022476224694401026,
+        0.0016825539059937
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Donjon",
+      "pos": [
+        13669.8388671875,
+        44.051483154296875,
+        3066.838623046875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3f.p3d",
+      "pos": [
+        13692.095703125,
+        18.393726348876953,
+        3205.328857421875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fb.p3d",
+      "pos": [
+        13687.2333984375,
+        18.892047882080078,
+        3207.102783203125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+      "pos": [
+        13683.60546875,
+        38.61405944824219,
+        3171.982421875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fc.p3d",
+      "pos": [
+        13688.8056640625,
+        18.506149291992188,
+        3216.9033203125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3s.p3d",
+      "pos": [
+        13679.1015625,
+        17.209861755371094,
+        3204.2392578125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3s.p3d",
+      "pos": [
+        13669.654296875,
+        18.47650909423828,
+        3203.09326171875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3s.p3d",
+      "pos": [
+        13708.955078125,
+        9.911026000976562,
+        3199.8857421875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3s.p3d",
+      "pos": [
+        13641.6240234375,
+        51.31278610229492,
+        3095.4111328125
+      ],
+      "ypr": [
+        -147.84486389160156,
+        0.0010579338995739818,
+        0.0011542903957888484
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fc.p3d",
+      "pos": [
+        13630.8974609375,
+        26.62670135498047,
+        3191.932861328125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2f.p3d",
+      "pos": [
+        13729.5263671875,
+        2.004056930541992,
+        3200.007080078125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2f.p3d",
+      "pos": [
+        13684.4208984375,
+        39.137901306152344,
+        3188.47021484375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+      "pos": [
+        13655.0517578125,
+        48.950157165527344,
+        3155.718994140625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Corridor_Connector",
+      "pos": [
+        13687.392578125,
+        24.553491592407227,
+        3139.06005859375
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3f.p3d",
+      "pos": [
+        13724.8662109375,
+        9.503009796142578,
+        3131.70263671875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fb.p3d",
+      "pos": [
+        13699.68359375,
+        41.708499908447266,
+        3163.5361328125
+      ],
+      "ypr": [
+        -178.48204040527344,
+        0.0022476224694401026,
+        0.0016825539059937
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Corridor_Connector",
+      "pos": [
+        13687.6396484375,
+        24.55349349975586,
+        3175.75
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3s.p3d",
+      "pos": [
+        13727.30859375,
+        5.8662261962890625,
+        3142.895751953125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3f.p3d",
+      "pos": [
+        13636.916015625,
+        41.70686340332031,
+        3051.809814453125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fb.p3d",
+      "pos": [
+        13648.83984375,
+        42.135337829589844,
+        3052.845947265625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3s.p3d",
+      "pos": [
+        13638.63671875,
+        39.833919525146484,
+        3048.12060546875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fc.p3d",
+      "pos": [
+        13653.8251953125,
+        42.041446685791016,
+        3051.212158203125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+      "pos": [
+        13653.2841796875,
+        38.90446472167969,
+        3048.228515625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3f.p3d",
+      "pos": [
+        13658.9990234375,
+        43.015995025634766,
+        3057.764404296875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fc.p3d",
+      "pos": [
+        13662.888671875,
+        48.90690231323242,
+        3162.147705078125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3f.p3d",
+      "pos": [
+        13610.861328125,
+        42.284244537353516,
+        3086.74072265625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fb.p3d",
+      "pos": [
+        13614.32421875,
+        41.550838470458984,
+        3083.550537109375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3s.p3d",
+      "pos": [
+        13617.564453125,
+        40.530250549316406,
+        3078.590576171875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3f.p3d",
+      "pos": [
+        13605.212890625,
+        31.394744873046875,
+        3171.83251953125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fb.p3d",
+      "pos": [
+        13602.158203125,
+        31.306339263916016,
+        3169.557373046875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3s.p3d",
+      "pos": [
+        13604.869140625,
+        30.20348358154297,
+        3164.831787109375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fc.p3d",
+      "pos": [
+        13607.818359375,
+        30.6065673828125,
+        3159.281005859375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13678.880859375,
+        41.72201919555664,
+        3187.34033203125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Bergfrit",
+      "pos": [
+        13617.78515625,
+        41.353004455566406,
+        3180.127685546875
+      ],
+      "ypr": [
+        -179.9999542236328,
+        0,
+        0
+      ],
+      "scale": 0.9999996423721313,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+      "pos": [
+        13597.564453125,
+        28.456077575683594,
+        3172.8623046875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fc.p3d",
+      "pos": [
+        13666.900390625,
+        48.95614242553711,
+        3147.767578125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13621.703125,
+        45.16276931762695,
+        3084.9755859375
+      ],
+      "ypr": [
+        -135,
+        0,
+        0
+      ],
+      "scale": 0.9999994039535522,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13615.9443359375,
+        45.16282653808594,
+        3103.00244140625
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999994039535522,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_Corner1",
+      "pos": [
+        13615.91015625,
+        46.56983947753906,
+        3092.7236328125
+      ],
+      "ypr": [
+        -74.99999237060547,
+        0,
+        0
+      ],
+      "scale": 0.9999982118606567,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13615.9443359375,
+        45.16282653808594,
+        3123.23291015625
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999993443489075,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13615.9443359375,
+        45.16282653808594,
+        3143.33544921875
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999992847442627,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13615.9443359375,
+        45.16282653808594,
+        3163.173095703125
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13615.5166015625,
+        36.74956130981445,
+        3143.33544921875
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13615.5166015625,
+        36.74956512451172,
+        3163.173095703125
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999988079071045,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13615.5166015625,
+        36.74956130981445,
+        3133.129638671875
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999991059303284,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Stairs_Collapsed",
+      "pos": [
+        13634.599609375,
+        44.5,
+        3097.449951171875
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Stairs_Collapsed",
+      "pos": [
+        13653.2001953125,
+        44.5,
+        3097.35009765625
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999994039535522,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Stairs_Collapsed",
+      "pos": [
+        13653.2001953125,
+        44.5,
+        3120.14990234375
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999993443489075,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Rubble_Bricks3",
+      "pos": [
+        13687.7900390625,
+        27.51531982421875,
+        3175.524658203125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1.499999761581421,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Gate",
+      "pos": [
+        13643.7265625,
+        47.36589813232422,
+        3062.6982421875
+      ],
+      "ypr": [
+        -1.1399125567079782E-11,
+        0,
+        0
+      ],
+      "scale": 0.9999988079071045,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3s.p3d",
+      "pos": [
+        13654.3564453125,
+        51.31308364868164,
+        3087.63720703125
+      ],
+      "ypr": [
+        -147.84486389160156,
+        0.0010579338995739818,
+        0.0011542903957888484
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Entrance",
+      "pos": [
+        13643.861328125,
+        44.44773864746094,
+        3074.115966796875
+      ],
+      "ypr": [
+        -8.956454501662936E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999986290931702,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3f.p3d",
+      "pos": [
+        13648.7177734375,
+        53.07618713378906,
+        3088.758056640625
+      ],
+      "ypr": [
+        -147.84486389160156,
+        0.0010579338995739818,
+        0.0011542903957888484
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Corridor_Connector",
+      "pos": [
+        13643.828125,
+        44.40473937988281,
+        3088.160888671875
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999986290931702,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Furniture_metalcrate",
+      "pos": [
+        13688.890625,
+        24.566814422607422,
+        3162.496337890625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fb.p3d",
+      "pos": [
+        13648.1953125,
+        52.32371520996094,
+        3097.69873046875
+      ],
+      "ypr": [
+        -147.84486389160156,
+        0.0010579338995739818,
+        0.0011542903957888484
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3s.p3d",
+      "pos": [
+        13696.50390625,
+        15.924552917480469,
+        3209.7529296875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Corridor_Main_Both",
+      "pos": [
+        13643.962890625,
+        44.407745361328125,
+        3106.635986328125
+      ],
+      "ypr": [
+        -8.956454501662936E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999986290931702,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3f.p3d",
+      "pos": [
+        13653.541015625,
+        53.07605743408203,
+        3095.00732421875
+      ],
+      "ypr": [
+        -147.84486389160156,
+        0.0010579338995739818,
+        0.0011542903957888484
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fb.p3d",
+      "pos": [
+        13658.1787109375,
+        52.32380294799805,
+        3097.078857421875
+      ],
+      "ypr": [
+        -147.84486389160156,
+        0.0010579338995739818,
+        0.0011542903957888484
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Corridor_Main_Both",
+      "pos": [
+        13643.962890625,
+        44.407745361328125,
+        3129.415771484375
+      ],
+      "ypr": [
+        -8.956455369024674E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999985694885254,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Stairs_Block_Terminator",
+      "pos": [
+        13631.162109375,
+        44.09773254394531,
+        3120.265869140625
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999983906745911,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3s.p3d",
+      "pos": [
+        13666.021484375,
+        51.312599182128906,
+        3109.301025390625
+      ],
+      "ypr": [
+        -147.84486389160156,
+        0.0010579338995739818,
+        0.0011542903957888484
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Stairs_Start",
+      "pos": [
+        13631.1650390625,
+        34.61152648925781,
+        3120.28662109375
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999986290931702,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13632.8837890625,
+        45.16282653808594,
+        3184.3759765625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999991059303284,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Stairs_Block",
+      "pos": [
+        13631.1767578125,
+        39.1324348449707,
+        3120.302001953125
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999983906745911,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3s.p3d",
+      "pos": [
+        13628.26171875,
+        51.31237030029297,
+        3145.978271484375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13653.3212890625,
+        45.16282653808594,
+        3184.3759765625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13637.3671875,
+        52.33552932739258,
+        3180.224365234375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Bergfrit",
+      "pos": [
+        13668.453125,
+        41.353004455566406,
+        3188.002197265625
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Corridor_Connector",
+      "pos": [
+        13643.8271484375,
+        34.45238494873047,
+        3110.90576171875
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999986886978149,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fb.p3d",
+      "pos": [
+        13638.77734375,
+        52.32331085205078,
+        3152.5869140625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13673.2744140625,
+        49.185707092285156,
+        3173.252685546875
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.999998927116394,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3s.p3d",
+      "pos": [
+        13667.482421875,
+        51.31241226196289,
+        3116.654052734375
+      ],
+      "ypr": [
+        -147.84486389160156,
+        0.0010579338995739818,
+        0.0011542903957888484
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3s.p3d",
+      "pos": [
+        13643.1787109375,
+        51.31237030029297,
+        3146.17333984375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Corridor_Connector",
+      "pos": [
+        13644.0751953125,
+        34.45238494873047,
+        3147.501220703125
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999988079071045,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fc.p3d",
+      "pos": [
+        13645.98828125,
+        51.7353515625,
+        3138.791259765625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13673.2744140625,
+        49.185707092285156,
+        3133.32275390625
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999986290931702,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fb.p3d",
+      "pos": [
+        13638.8330078125,
+        52.32331085205078,
+        3140.7392578125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13673.2744140625,
+        49.185707092285156,
+        3113.4658203125
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999985694885254,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3f.p3d",
+      "pos": [
+        13632.875,
+        53.07554626464844,
+        3140.1728515625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13673.2744140625,
+        49.185707092285156,
+        3093.598388671875
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999984502792358,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Storage_Hospital",
+      "pos": [
+        13661.05078125,
+        34.44552230834961,
+        3129.173583984375
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999992847442627,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13673.2744140625,
+        49.185707092285156,
+        3073.80224609375
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999983906745911,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3s.p3d",
+      "pos": [
+        13637.9775390625,
+        51.31237030029297,
+        3132.373046875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13663.373046875,
+        45.16282653808594,
+        3062.2802734375
+      ],
+      "ypr": [
+        -179.9999542236328,
+        0,
+        0
+      ],
+      "scale": 0.9999992847442627,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fc.p3d",
+      "pos": [
+        13644.5107421875,
+        51.7353515625,
+        3132.594970703125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Corridor_Connector",
+      "pos": [
+        13644.0751953125,
+        44.409523010253906,
+        3147.501220703125
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999983906745911,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13673.6953125,
+        33.66385269165039,
+        3113.4658203125
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999982118606567,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13673.6953125,
+        33.663848876953125,
+        3093.598388671875
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999983906745911,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13673.6953125,
+        33.663856506347656,
+        3073.80224609375
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999980926513672,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3s.p3d",
+      "pos": [
+        13629.916015625,
+        51.31237030029297,
+        3121.42919921875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Panel",
+      "pos": [
+        13641.205078125,
+        45.95065689086914,
+        3066.910400390625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fc.p3d",
+      "pos": [
+        13636.4580078125,
+        51.7353515625,
+        3120.82666015625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13632.8837890625,
+        29.01934051513672,
+        3184.97314453125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Tunnel_Single_Right",
+      "pos": [
+        13644.08203125,
+        34.45252227783203,
+        3155.159912109375
+      ],
+      "ypr": [
+        -1.628444341178481E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fb.p3d",
+      "pos": [
+        13640.0732421875,
+        52.32331085205078,
+        3124.97509765625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fb.p3d",
+      "pos": [
+        13645.9677734375,
+        52.32331085205078,
+        3126.404052734375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13671.2958984375,
+        22.902286529541016,
+        3192.19189453125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3f.p3d",
+      "pos": [
+        13651.2529296875,
+        53.07554626464844,
+        3133.060546875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13662.625,
+        22.902286529541016,
+        3183.542724609375
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+      "pos": [
+        13733.1796875,
+        -0.09467315673828125,
+        3206.47265625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3s.p3d",
+      "pos": [
+        13656.9296875,
+        51.31237030029297,
+        3134.443603515625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3s.p3d",
+      "pos": [
+        13632.5927734375,
+        51.31237030029297,
+        3114.4267578125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fc.p3d",
+      "pos": [
+        13730.16796875,
+        6.278692245483398,
+        3135.033935546875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3s.p3d",
+      "pos": [
+        13710.9345703125,
+        40.698726654052734,
+        3142.2275390625
+      ],
+      "ypr": [
+        -178.48204040527344,
+        0.0022476224694401026,
+        0.0016825539059937
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3f.p3d",
+      "pos": [
+        13705.5126953125,
+        42.46182632446289,
+        3140.318603515625
+      ],
+      "ypr": [
+        -178.48204040527344,
+        0.0022476224694401026,
+        0.0016825539059937
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fb.p3d",
+      "pos": [
+        13700.248046875,
+        41.70962142944336,
+        3135.89990234375
+      ],
+      "ypr": [
+        -178.48204040527344,
+        0.0022476224694401026,
+        0.0016825539059937
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fc.p3d",
+      "pos": [
+        13698.1103515625,
+        41.12183380126953,
+        3130.069580078125
+      ],
+      "ypr": [
+        -178.48204040527344,
+        0.0022476224694401026,
+        0.0016825537895783782
+      ],
+      "scale": 0.9999993443489075,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Tunnel_Single",
+      "pos": [
+        13655.849609375,
+        34.45252227783203,
+        3161.919921875
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fc.p3d",
+      "pos": [
+        13693.4052734375,
+        41.120906829833984,
+        3149.881591796875
+      ],
+      "ypr": [
+        -178.48204040527344,
+        0.0022476224694401026,
+        0.0016825539059937
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fb.p3d",
+      "pos": [
+        13700.505859375,
+        41.70915222167969,
+        3147.744873046875
+      ],
+      "ypr": [
+        -178.48204040527344,
+        0.0022476224694401026,
+        0.0016825539059937
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3f.p3d",
+      "pos": [
+        13706.4765625,
+        42.4615364074707,
+        3148.153076171875
+      ],
+      "ypr": [
+        -178.48204040527344,
+        0.0022476224694401026,
+        0.0016825539059937
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fb.p3d",
+      "pos": [
+        13709.412109375,
+        41.709224700927734,
+        3152.299072265625
+      ],
+      "ypr": [
+        -178.48204040527344,
+        0.0022476224694401026,
+        0.0016825539059937
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3s.p3d",
+      "pos": [
+        13701.5830078125,
+        40.697906494140625,
+        3156.08544921875
+      ],
+      "ypr": [
+        -178.48204040527344,
+        0.0022476224694401026,
+        0.0016825539059937
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fc.p3d",
+      "pos": [
+        13695.0458984375,
+        41.12070846557617,
+        3156.03662109375
+      ],
+      "ypr": [
+        -178.48204040527344,
+        0.0022476224694401026,
+        0.0016825539059937
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fb.p3d",
+      "pos": [
+        13706.580078125,
+        41.70885467529297,
+        3159.561767578125
+      ],
+      "ypr": [
+        -178.48204040527344,
+        0.0022476224694401026,
+        0.0016825539059937
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3f.p3d",
+      "pos": [
+        13709.556640625,
+        42.461055755615234,
+        3162.414306640625
+      ],
+      "ypr": [
+        -178.48204040527344,
+        0.0022476224694401026,
+        0.0016825539059937
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3s.p3d",
+      "pos": [
+        13709.931640625,
+        40.697715759277344,
+        3166.811767578125
+      ],
+      "ypr": [
+        -178.48204040527344,
+        0.0022476224694401026,
+        0.0016825539059937
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fc.p3d",
+      "pos": [
+        13703.408203125,
+        41.1204833984375,
+        3167.58740234375
+      ],
+      "ypr": [
+        -178.48204040527344,
+        0.0022476224694401026,
+        0.0016825539059937
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Corridor_Connector_Inv",
+      "pos": [
+        13668.48046875,
+        34.45252227783203,
+        3161.929931640625
+      ],
+      "ypr": [
+        -179.99989318847656,
+        0,
+        0
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fb.p3d",
+      "pos": [
+        13693.75390625,
+        41.70838165283203,
+        3162.263916015625
+      ],
+      "ypr": [
+        -178.48204040527344,
+        0.0022476224694401026,
+        0.0016825539059937
+      ],
+      "scale": 0.9999992847442627,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3f.p3d",
+      "pos": [
+        13688.2939453125,
+        42.46072006225586,
+        3155.749755859375
+      ],
+      "ypr": [
+        -178.48204040527344,
+        0.0022476224694401026,
+        0.0016825539059937
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3s.p3d",
+      "pos": [
+        13682.5830078125,
+        40.69743347167969,
+        3154.517578125
+      ],
+      "ypr": [
+        -178.48204040527344,
+        0.0022476224694401026,
+        0.0016825539059937
+      ],
+      "scale": 0.9999992847442627,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3s.p3d",
+      "pos": [
+        13707.44140625,
+        40.69736099243164,
+        3173.882568359375
+      ],
+      "ypr": [
+        -178.48204040527344,
+        0.0022476224694401026,
+        0.0016825539059937
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Storage_Prison",
+      "pos": [
+        13687.044921875,
+        34.45252227783203,
+        3144.70458984375
+      ],
+      "ypr": [
+        -179.99989318847656,
+        0,
+        0
+      ],
+      "scale": 0.9999993443489075,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fb.p3d",
+      "pos": [
+        13646.3720703125,
+        50.81095886230469,
+        3083.256591796875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Stairs_Exit",
+      "pos": [
+        13674.8896484375,
+        34.108055114746094,
+        3149.866943359375
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999991059303284,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+      "pos": [
+        13650.8681640625,
+        49.17738723754883,
+        3078.9248046875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Misc_Gunrack",
+      "pos": [
+        13685.9482421875,
+        24.93001937866211,
+        3151.07470703125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_ContainerLocked_Red_DE",
+      "pos": [
+        13713.900390625,
+        35.67400360107422,
+        3161.64990234375
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Furniture_metalcrate",
+      "pos": [
+        13686.099609375,
+        24.565080642700195,
+        3152.070556640625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fb.p3d",
+      "pos": [
+        13641.9365234375,
+        52.323936462402344,
+        3087.638916015625
+      ],
+      "ypr": [
+        -147.84486389160156,
+        0.0010579338995739818,
+        0.0011542903957888484
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fc.p3d",
+      "pos": [
+        13637.126953125,
+        51.736045837402344,
+        3083.711669921875
+      ],
+      "ypr": [
+        -147.84486389160156,
+        0.0010579338995739818,
+        0.0011542903957888484
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fc.p3d",
+      "pos": [
+        13643.173828125,
+        51.73557662963867,
+        3103.156005859375
+      ],
+      "ypr": [
+        -147.84486389160156,
+        0.0010579338995739818,
+        0.0011542903957888484
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13696.794921875,
+        41.649505615234375,
+        3124.454833984375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.999998927116394,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Roadblock_Table",
+      "pos": [
+        13685.984375,
+        24.967103958129883,
+        3163.168701171875
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3s.p3d",
+      "pos": [
+        13653.3720703125,
+        51.31263732910156,
+        3104.326416015625
+      ],
+      "ypr": [
+        -147.84486389160156,
+        0.0010579338995739818,
+        0.0011542903957888484
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fc.p3d",
+      "pos": [
+        13647.72265625,
+        51.73549270629883,
+        3107.615478515625
+      ],
+      "ypr": [
+        -147.84486389160156,
+        0.0010579338995739818,
+        0.0011542903957888484
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fb.p3d",
+      "pos": [
+        13659.443359375,
+        52.323612213134766,
+        3104.77099609375
+      ],
+      "ypr": [
+        -147.84486389160156,
+        0.0010579338995739818,
+        0.0011542903957888484
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3f.p3d",
+      "pos": [
+        13663.4580078125,
+        53.075843811035156,
+        3105.708251953125
+      ],
+      "ypr": [
+        -147.84486389160156,
+        0.0010579338995739818,
+        0.0011542903957888484
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fc.p3d",
+      "pos": [
+        13660.8037109375,
+        51.735435485839844,
+        3113.29296875
+      ],
+      "ypr": [
+        -147.84486389160156,
+        0.0010579338995739818,
+        0.0011542903957888484
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fb.p3d",
+      "pos": [
+        13655.53515625,
+        52.32339859008789,
+        3111.704833984375
+      ],
+      "ypr": [
+        -147.84486389160156,
+        0.0010579338995739818,
+        0.0011542903957888484
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3f.p3d",
+      "pos": [
+        13641.7666015625,
+        53.07555389404297,
+        3110.809814453125
+      ],
+      "ypr": [
+        -147.84486389160156,
+        0.0010579338995739818,
+        0.0011542903957888484
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3s.p3d",
+      "pos": [
+        13636.224609375,
+        51.312294006347656,
+        3112.659912109375
+      ],
+      "ypr": [
+        -147.84486389160156,
+        0.0010579338995739818,
+        0.0011542903957888484
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13678.880859375,
+        41.72201919555664,
+        3177.490966796875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999996423721313,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13678.880859375,
+        41.72201919555664,
+        3167.65673828125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fb.p3d",
+      "pos": [
+        13664.1943359375,
+        42.54518508911133,
+        3056.49072265625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13678.880859375,
+        41.72201919555664,
+        3157.79248046875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13678.880859375,
+        41.72201919555664,
+        3148.018310546875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999994039535522,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13678.880859375,
+        41.72201919555664,
+        3138.140380859375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999993443489075,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13678.880859375,
+        41.72201919555664,
+        3128.194580078125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999992847442627,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13687.8525390625,
+        41.72201919555664,
+        3187.34033203125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13687.8525390625,
+        41.72201919555664,
+        3177.490966796875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999994039535522,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13687.8525390625,
+        41.72201919555664,
+        3167.65673828125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999993443489075,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13687.8525390625,
+        41.72201919555664,
+        3157.79248046875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999992847442627,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13687.8525390625,
+        41.72201919555664,
+        3148.018310546875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13687.8525390625,
+        41.72201919555664,
+        3138.140380859375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999991059303284,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13687.8525390625,
+        41.72201919555664,
+        3128.194580078125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13687.8525390625,
+        41.649505615234375,
+        3124.454833984375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999991059303284,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2f.p3d",
+      "pos": [
+        13641.8095703125,
+        49.92577362060547,
+        3080.204345703125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13696.794921875,
+        41.72201919555664,
+        3187.34033203125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999993443489075,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13696.794921875,
+        41.72201919555664,
+        3177.490966796875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999992847442627,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13696.794921875,
+        41.72201919555664,
+        3167.65673828125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13696.794921875,
+        41.72201919555664,
+        3157.79248046875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999991059303284,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13696.794921875,
+        41.72201919555664,
+        3148.018310546875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13696.794921875,
+        41.72201919555664,
+        3138.140380859375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.999998927116394,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13696.794921875,
+        41.72201919555664,
+        3128.194580078125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999991059303284,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_L",
+      "pos": [
+        13693.1708984375,
+        24.367515563964844,
+        3159.94970703125
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fc.p3d",
+      "pos": [
+        13643.044921875,
+        49.38966369628906,
+        3073.760009765625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fb.p3d",
+      "pos": [
+        13647.4296875,
+        51.238731384277344,
+        3074.74462890625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_R",
+      "pos": [
+        13693.189453125,
+        26.682735443115234,
+        3154.42333984375
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999993443489075,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2f.p3d",
+      "pos": [
+        13653.0859375,
+        49.598304748535156,
+        3071.9921875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_L",
+      "pos": [
+        13681.84375,
+        24.36722755432129,
+        3155.799560546875
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+      "pos": [
+        13657.4169921875,
+        48.6007194519043,
+        3064.353515625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2f.p3d",
+      "pos": [
+        13657.123046875,
+        49.47400665283203,
+        3069.942138671875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_R",
+      "pos": [
+        13681.845703125,
+        26.68380355834961,
+        3162.13720703125
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Furniture_phonebox",
+      "pos": [
+        13674.037109375,
+        34.92694091796875,
+        3153.588623046875
+      ],
+      "ypr": [
+        -179.9999542236328,
+        0,
+        0
+      ],
+      "scale": 0.999999463558197,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13705.6650390625,
+        41.72201919555664,
+        3187.34033203125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13705.6650390625,
+        41.72201919555664,
+        3177.490966796875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999991059303284,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13705.6650390625,
+        41.72201919555664,
+        3167.65673828125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Stairs_Start",
+      "pos": [
+        13674.9033203125,
+        24.70647430419922,
+        3148.391845703125
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999993443489075,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13705.6650390625,
+        41.72201919555664,
+        3148.018310546875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999988675117493,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13705.6650390625,
+        41.72201919555664,
+        3138.140380859375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999988079071045,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13705.6650390625,
+        41.72201919555664,
+        3128.194580078125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.999998927116394,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13705.6650390625,
+        41.649505615234375,
+        3124.454833984375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999988675117493,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+      "pos": [
+        13669.9873046875,
+        48.999393463134766,
+        3078.1240234375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Corridor_Main_Both",
+      "pos": [
+        13687.529296875,
+        24.555044174194336,
+        3157.5654296875
+      ],
+      "ypr": [
+        -1.628444341178481E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3f.p3d",
+      "pos": [
+        13605.009765625,
+        33.16095733642578,
+        3155.711669921875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+      "pos": [
+        13670.4169921875,
+        48.99939727783203,
+        3099.561279296875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13705.6650390625,
+        41.72201919555664,
+        3157.79248046875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.999998927116394,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fb.p3d",
+      "pos": [
+        13666.22265625,
+        50.860198974609375,
+        3090.489501953125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+      "pos": [
+        13707.7626953125,
+        38.264137268066406,
+        3123.162841796875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fc.p3d",
+      "pos": [
+        13659.1162109375,
+        48.90690231323242,
+        3076.89208984375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fc.p3d",
+      "pos": [
+        13670.6953125,
+        48.95614242553711,
+        3090.25
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2f.p3d",
+      "pos": [
+        13665.1513671875,
+        49.52324676513672,
+        3081.67578125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+      "pos": [
+        13631.205078125,
+        49.025848388671875,
+        3083.130615234375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2f.p3d",
+      "pos": [
+        13629.35546875,
+        49.5496940612793,
+        3090.04541015625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13713.8798828125,
+        41.5822868347168,
+        3187.34033203125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.999998927116394,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13713.8798828125,
+        41.5822868347168,
+        3177.490966796875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999988675117493,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13713.8798828125,
+        41.5822868347168,
+        3167.65673828125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999988079071045,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13713.8798828125,
+        41.5822868347168,
+        3157.79248046875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999986886978149,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13713.8798828125,
+        41.5822868347168,
+        3148.018310546875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999986290931702,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13713.8798828125,
+        41.5822868347168,
+        3138.140380859375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999985694885254,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13713.8798828125,
+        41.5822868347168,
+        3128.194580078125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999988675117493,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13713.8798828125,
+        41.50977325439453,
+        3124.454833984375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999986290931702,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+      "pos": [
+        13621.6201171875,
+        49.025848388671875,
+        3090.689697265625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2f.p3d",
+      "pos": [
+        13617.2626953125,
+        49.63134002685547,
+        3092.2822265625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fc.p3d",
+      "pos": [
+        13617.837890625,
+        49.06423568725586,
+        3096.80126953125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fb.p3d",
+      "pos": [
+        13617.6728515625,
+        50.968292236328125,
+        3100.781005859375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+      "pos": [
+        13621.4326171875,
+        48.950157165527344,
+        3106.3603515625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+      "pos": [
+        13664.064453125,
+        48.950157165527344,
+        3097.823974609375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2f.p3d",
+      "pos": [
+        13622.2939453125,
+        49.41183853149414,
+        3115.73388671875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fc.p3d",
+      "pos": [
+        13640.759765625,
+        51.7353515625,
+        3158.4716796875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+      "pos": [
+        13618.6171875,
+        48.950157165527344,
+        3123.37939453125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fc.p3d",
+      "pos": [
+        13625.0966796875,
+        48.90690231323242,
+        3127.915771484375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13669.5107421875,
+        52.384769439697266,
+        3110.888916015625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2f.p3d",
+      "pos": [
+        13626.65625,
+        49.47400665283203,
+        3132.43408203125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Bergfrit",
+      "pos": [
+        13679.0849609375,
+        41.01874542236328,
+        3124.6962890625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+      "pos": [
+        13626,
+        48.950157165527344,
+        3139.916259765625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_L",
+      "pos": [
+        13685.7021484375,
+        34.25350570678711,
+        3167.47119140625
+      ],
+      "ypr": [
+        -179.9999542236328,
+        0,
+        0
+      ],
+      "scale": 0.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13717.392578125,
+        34.53905487060547,
+        3140.74658203125
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fb.p3d",
+      "pos": [
+        13619.73046875,
+        50.81095886230469,
+        3151.566162109375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Bergfrit",
+      "pos": [
+        13716.2138671875,
+        26.02324104309082,
+        3124.6962890625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fc.p3d",
+      "pos": [
+        13623.5478515625,
+        48.90690231323242,
+        3154.673095703125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Storage_POX2",
+      "pos": [
+        13704.6708984375,
+        24.55252456665039,
+        3157.3154296875
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13717.392578125,
+        34.53905487060547,
+        3160.614990234375
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999996423721313,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2f.p3d",
+      "pos": [
+        13617.8818359375,
+        49.47400665283203,
+        3158.38623046875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13717.392578125,
+        34.53905487060547,
+        3180.41845703125
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+      "pos": [
+        13618.4599609375,
+        48.950157165527344,
+        3164.8134765625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Storage_Ammo2",
+      "pos": [
+        13670.3466796875,
+        24.552526473999023,
+        3159.04345703125
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999993443489075,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13685.5595703125,
+        34.53905487060547,
+        3191.00732421875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fc.p3d",
+      "pos": [
+        13618.7392578125,
+        48.90690231323242,
+        3170.318359375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+      "pos": [
+        13633.0263671875,
+        48.950157165527344,
+        3159.2451171875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13704.1240234375,
+        34.53905487060547,
+        3191.00732421875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999994039535522,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+      "pos": [
+        13627.59765625,
+        48.950157165527344,
+        3166.70556640625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Bergfrit",
+      "pos": [
+        13716.2138671875,
+        26.023239135742188,
+        3186.63720703125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fc.p3d",
+      "pos": [
+        13633.5849609375,
+        48.90690231323242,
+        3170.561767578125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13704.1240234375,
+        34.53905487060547,
+        3120.783203125
+      ],
+      "ypr": [
+        -179.9999542236328,
+        0,
+        0
+      ],
+      "scale": 0.9999992847442627,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2f.p3d",
+      "pos": [
+        13627.3056640625,
+        49.47400665283203,
+        3174.22314453125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13684.4169921875,
+        34.53905487060547,
+        3120.783203125
+      ],
+      "ypr": [
+        -179.99993896484375,
+        0,
+        0
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3s.p3d",
+      "pos": [
+        13607.4169921875,
+        37.53658676147461,
+        3123.947021484375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13704.1240234375,
+        22.93527603149414,
+        3120.247314453125
+      ],
+      "ypr": [
+        -179.99993896484375,
+        0,
+        0
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13684.4169921875,
+        22.935272216796875,
+        3120.247314453125
+      ],
+      "ypr": [
+        -179.9999237060547,
+        0,
+        0
+      ],
+      "scale": 0.9999991059303284,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+      "pos": [
+        13600.7158203125,
+        35.07836151123047,
+        3134.85546875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fc.p3d",
+      "pos": [
+        13630.736328125,
+        48.90690231323242,
+        3183.695556640625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fc.p3d",
+      "pos": [
+        13602.67578125,
+        34.14173126220703,
+        3138.604736328125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13717.90625,
+        22.243915557861328,
+        3140.74658203125
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999993443489075,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13717.90625,
+        22.243915557861328,
+        3160.614990234375
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999992847442627,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13717.90625,
+        22.243915557861328,
+        3180.41845703125
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+      "pos": [
+        13643.40234375,
+        48.950157165527344,
+        3183.053955078125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fc.p3d",
+      "pos": [
+        13652.3046875,
+        22.5950927734375,
+        3191.389404296875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fc.p3d",
+      "pos": [
+        13650.5322265625,
+        48.90690231323242,
+        3180.6513671875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3s.p3d",
+      "pos": [
+        13651.6884765625,
+        22.17052459716797,
+        3195.937255859375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13718.380859375,
+        13.581945419311523,
+        3140.74658203125
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.999998927116394,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13718.380859375,
+        13.581944465637207,
+        3160.614990234375
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999988675117493,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13718.380859375,
+        13.581944465637207,
+        3180.41845703125
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999994039535522,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2f.p3d",
+      "pos": [
+        13665.263671875,
+        49.52324676513672,
+        3176.5341796875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Storage_Ammo",
+      "pos": [
+        13661.1015625,
+        44.39667510986328,
+        3129.1728515625
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fb.p3d",
+      "pos": [
+        13643.2041015625,
+        24.895492553710938,
+        3191.0830078125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+      "pos": [
+        13657.9775390625,
+        48.950157165527344,
+        3149.17822265625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Storage_POX",
+      "pos": [
+        13661.095703125,
+        44.396522521972656,
+        3106.39599609375
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13685.5595703125,
+        22.547454833984375,
+        3191.63671875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999992847442627,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13704.1240234375,
+        22.54745101928711,
+        3191.63671875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999993443489075,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+      "pos": [
+        13667.0107421875,
+        48.99939727783203,
+        3167.729736328125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13685.5595703125,
+        14.34776782989502,
+        3191.932861328125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999988675117493,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13704.1240234375,
+        14.34776496887207,
+        3191.932861328125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999992847442627,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_L",
+      "pos": [
+        13689.6123046875,
+        34.26393127441406,
+        3156.11669921875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fb.p3d",
+      "pos": [
+        13629.408203125,
+        50.81095886230469,
+        3097.206787109375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_R",
+      "pos": [
+        13683.330078125,
+        36.57868194580078,
+        3156.1201171875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+      "pos": [
+        13657.0234375,
+        48.950157165527344,
+        3123.44091796875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+      "pos": [
+        13667.1416015625,
+        48.99939727783203,
+        3125.94091796875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fc.p3d",
+      "pos": [
+        13668.333984375,
+        48.95614242553711,
+        3133.774169921875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2f.p3d",
+      "pos": [
+        13663.3857421875,
+        49.47400665283203,
+        3140.966552734375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fc.p3d",
+      "pos": [
+        13632.7353515625,
+        48.90690231323242,
+        3101.671630859375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fb.p3d",
+      "pos": [
+        13619.8740234375,
+        50.81095886230469,
+        3115.9052734375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Storage_Workshop",
+      "pos": [
+        13626.7724609375,
+        44.396522521972656,
+        3108.11962890625
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999993443489075,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fb.p3d",
+      "pos": [
+        13633.07421875,
+        52.32331085205078,
+        3128.765380859375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Storage_Barracks",
+      "pos": [
+        13626.8232421875,
+        44.396522521972656,
+        3130.89990234375
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999993443489075,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_R",
+      "pos": [
+        13690.755859375,
+        36.57014465332031,
+        3167.456787109375
+      ],
+      "ypr": [
+        -179.9999542236328,
+        0,
+        0
+      ],
+      "scale": 0.9999996423721313,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2f.p3d",
+      "pos": [
+        13618.298828125,
+        49.47400665283203,
+        3142.13330078125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Panel_Lever",
+      "pos": [
+        13647.37109375,
+        45.72196960449219,
+        3070.658203125
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Corridor_Main_Both",
+      "pos": [
+        13686.990234375,
+        34.45252227783203,
+        3161.7900390625
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Corridor_Main_Right",
+      "pos": [
+        13643.962890625,
+        34.44852066040039,
+        3129.416015625
+      ],
+      "ypr": [
+        -1.628444341178481E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Storage_Laboratory",
+      "pos": [
+        13688.47265625,
+        34.45252227783203,
+        3178.96484375
+      ],
+      "ypr": [
+        -8.142221705892405E-13,
+        0,
+        0
+      ],
+      "scale": 0.9999994039535522,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13619.388671875,
+        52.33552932739258,
+        3180.224365234375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_L",
+      "pos": [
+        13649.671875,
+        34.262786865234375,
+        3132.806396484375
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13628.4306640625,
+        52.33552932739258,
+        3180.224365234375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_R",
+      "pos": [
+        13649.6640625,
+        36.5775146484375,
+        3126.11083984375
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999993443489075,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13646.181640625,
+        52.33552932739258,
+        3180.224365234375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13654.7666015625,
+        52.33552932739258,
+        3180.224365234375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13663.52734375,
+        52.33552932739258,
+        3180.224365234375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13619.388671875,
+        52.33552932739258,
+        3100.947265625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999980926513672,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13669.5107421875,
+        52.384769439697266,
+        3180.224365234375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13628.4306640625,
+        52.33552932739258,
+        3100.947265625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999979138374329,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13619.388671875,
+        52.33552932739258,
+        3170.35400390625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13628.4306640625,
+        52.33552932739258,
+        3170.35400390625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13637.3671875,
+        52.33552932739258,
+        3170.35400390625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13646.181640625,
+        52.33552932739258,
+        3170.35400390625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13654.7666015625,
+        52.33552932739258,
+        3170.35400390625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13663.52734375,
+        52.33552932739258,
+        3170.35400390625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13669.5107421875,
+        52.384769439697266,
+        3170.35400390625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13654.7666015625,
+        52.33552932739258,
+        3100.947265625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999980926513672,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fb.p3d",
+      "pos": [
+        13627.326171875,
+        50.81095886230469,
+        3180.076171875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Donjon",
+      "pos": [
+        13644.48046875,
+        57.557762145996094,
+        3169.06689453125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13669.5107421875,
+        52.384769439697266,
+        3100.947265625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.999998927116394,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+      "pos": [
+        13632.076171875,
+        48.950157165527344,
+        3178.06591796875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13619.388671875,
+        52.33552932739258,
+        3160.487060546875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999992847442627,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13628.4306640625,
+        52.33552932739258,
+        3160.487060546875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999992847442627,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13637.3671875,
+        52.33552932739258,
+        3160.487060546875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999992847442627,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13646.181640625,
+        52.33552932739258,
+        3160.487060546875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999992847442627,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13654.7666015625,
+        52.33552932739258,
+        3160.487060546875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999992847442627,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13663.52734375,
+        52.33552932739258,
+        3160.487060546875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999992847442627,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13669.5107421875,
+        52.384769439697266,
+        3160.487060546875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+      "pos": [
+        13619.1953125,
+        48.950157165527344,
+        3132.392578125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2f.p3d",
+      "pos": [
+        13636.5283203125,
+        49.47400665283203,
+        3181.098876953125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13619.388671875,
+        52.33552932739258,
+        3150.575927734375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13628.4306640625,
+        52.33552932739258,
+        3150.575927734375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13637.3671875,
+        52.33552932739258,
+        3150.575927734375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13646.181640625,
+        52.33552932739258,
+        3150.575927734375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13654.7666015625,
+        52.33552932739258,
+        3150.575927734375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13663.52734375,
+        52.33552932739258,
+        3150.575927734375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13669.5107421875,
+        52.384769439697266,
+        3150.575927734375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999996423721313,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Wreck_offroad02_aban1",
+      "pos": [
+        13641.154296875,
+        46.25482177734375,
+        3114.828125
+      ],
+      "ypr": [
+        29.696205139160156,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_wreck_truck01_aban2_green",
+      "pos": [
+        13646.4423828125,
+        44.419551849365234,
+        3134.5380859375
+      ],
+      "ypr": [
+        -8.459999084472656,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13619.388671875,
+        52.33552932739258,
+        3140.63134765625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999988675117493,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13628.4306640625,
+        52.33552932739258,
+        3140.63134765625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999988675117493,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13637.3671875,
+        52.33552932739258,
+        3140.63134765625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999988675117493,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13646.181640625,
+        52.33552932739258,
+        3140.63134765625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999988675117493,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13654.7666015625,
+        52.33552932739258,
+        3140.63134765625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13663.52734375,
+        52.33552932739258,
+        3140.63134765625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999988675117493,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13669.5107421875,
+        52.384769439697266,
+        3140.63134765625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13619.388671875,
+        52.33552932739258,
+        3130.685546875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999986290931702,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13628.4306640625,
+        52.33552932739258,
+        3130.685546875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999986290931702,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13637.3671875,
+        52.33552932739258,
+        3130.685546875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999986290931702,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13646.181640625,
+        52.33552932739258,
+        3130.685546875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999986290931702,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13654.7666015625,
+        52.33552932739258,
+        3130.685546875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999988079071045,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13663.52734375,
+        52.33552932739258,
+        3130.685546875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999986290931702,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13669.5107421875,
+        52.384769439697266,
+        3130.685546875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Rubble_Bricks2",
+      "pos": [
+        13639.931640625,
+        36.82353210449219,
+        3139.8115234375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1.499999761581421,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Rubble_Bricks3",
+      "pos": [
+        13640.3134765625,
+        36.659767150878906,
+        3148.390869140625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Rubble_Bricks2",
+      "pos": [
+        13651.5068359375,
+        35.97191619873047,
+        3148.203125
+      ],
+      "ypr": [
+        -90.2289047241211,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fc.p3d",
+      "pos": [
+        13599.763671875,
+        28.608417510986328,
+        3166.626708984375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Rubble_Bricks3",
+      "pos": [
+        13644.0712890625,
+        36.02250671386719,
+        3104.99267578125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1.499999761581421,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13619.388671875,
+        52.33552932739258,
+        3120.789794921875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999983906745911,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13628.4306640625,
+        52.33552932739258,
+        3120.789794921875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999983906745911,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13637.3671875,
+        52.33552932739258,
+        3120.789794921875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999983906745911,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13646.181640625,
+        52.33552932739258,
+        3120.789794921875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999983906745911,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13654.7666015625,
+        52.33552932739258,
+        3120.789794921875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999985694885254,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13663.52734375,
+        52.33552932739258,
+        3120.789794921875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999985694885254,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13669.5107421875,
+        52.384769439697266,
+        3120.789794921875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999992847442627,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_2fb.p3d",
+      "pos": [
+        13666.3310546875,
+        50.860198974609375,
+        3155.220947265625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13619.388671875,
+        52.33552932739258,
+        3110.888916015625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999983310699463,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13628.4306640625,
+        52.33552932739258,
+        3110.888916015625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.999998152256012,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13637.3671875,
+        52.33552932739258,
+        3110.888916015625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.999998152256012,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13646.181640625,
+        52.33552932739258,
+        3110.888916015625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.999998152256012,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13654.7666015625,
+        52.33552932739258,
+        3110.888916015625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999983310699463,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13663.52734375,
+        52.33552932739258,
+        3110.888916015625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999983310699463,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_L",
+      "pos": [
+        13649.634765625,
+        44.22450256347656,
+        3132.356689453125
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999993443489075,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3f.p3d",
+      "pos": [
+        13633.6318359375,
+        53.07554626464844,
+        3148.0302734375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Rubble_Bricks3",
+      "pos": [
+        13688.541015625,
+        28.06412124633789,
+        3139.060791015625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1.499999761581421,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_R",
+      "pos": [
+        13649.654296875,
+        46.53923416137695,
+        3125.9619140625
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_L",
+      "pos": [
+        13649.634765625,
+        44.22450256347656,
+        3110.779052734375
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999992847442627,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_R",
+      "pos": [
+        13649.654296875,
+        46.53923797607422,
+        3102.45166015625
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.999998927116394,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Rubble_Bricks3",
+      "pos": [
+        13644.435546875,
+        46.28450393676758,
+        3150.224609375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1.499999761581421,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_L",
+      "pos": [
+        13638.26953125,
+        44.22384262084961,
+        3104.86181640625
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13637.3671875,
+        52.33552932739258,
+        3100.947265625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999979138374329,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13646.181640625,
+        52.33552932739258,
+        3100.947265625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999979138374329,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Rubble_Bricks2",
+      "pos": [
+        13693.73046875,
+        26.066986083984375,
+        3147.5712890625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13663.52734375,
+        52.33552932739258,
+        3100.947265625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999980926513672,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_R",
+      "pos": [
+        13638.2529296875,
+        46.54056930541992,
+        3111.20703125
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_L",
+      "pos": [
+        13638.26953125,
+        44.22384262084961,
+        3126.51416015625
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_R",
+      "pos": [
+        13638.2529296875,
+        46.54056930541992,
+        3135.506103515625
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        13673.2744140625,
+        49.185707092285156,
+        3153.238525390625
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999986886978149,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13628.4306640625,
+        52.33552932739258,
+        3091.159912109375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999977350234985,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13637.3671875,
+        52.33552932739258,
+        3091.159912109375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999977350234985,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13646.181640625,
+        52.33552932739258,
+        3091.159912109375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999977350234985,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13654.7666015625,
+        52.33552932739258,
+        3091.159912109375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999979138374329,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13663.52734375,
+        52.33552932739258,
+        3091.159912109375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999979138374329,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13669.5107421875,
+        52.384769439697266,
+        3091.159912109375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999988675117493,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13637.3671875,
+        52.33552932739258,
+        3081.2392578125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999976754188538,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13646.181640625,
+        52.33552932739258,
+        3081.2392578125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13654.7666015625,
+        52.33552932739258,
+        3081.2392578125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999977350234985,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13663.52734375,
+        52.33552932739258,
+        3081.2392578125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999977350234985,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13669.5107421875,
+        52.384769439697266,
+        3081.2392578125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999986886978149,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_betulapendula_3fb.p3d",
+      "pos": [
+        13630.05078125,
+        52.32331085205078,
+        3135.95068359375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13654.7666015625,
+        52.33552932739258,
+        3071.3525390625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13663.52734375,
+        52.33552932739258,
+        3071.3525390625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13669.5107421875,
+        52.384769439697266,
+        3071.3525390625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999986290931702,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        13654.7666015625,
+        51.9860954284668,
+        3066.678466796875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999974966049194,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Aug",
+      "pos": [
+        13685.677734375,
+        24.990053176879883,
+        3150.8759765625
+      ],
+      "ypr": [
+        0,
+        0,
+        90
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Aug",
+      "pos": [
+        13685.677734375,
+        24.990053176879883,
+        3150.675048828125
+      ],
+      "ypr": [
+        0,
+        0,
+        90
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "M14",
+      "pos": [
+        13685.634765625,
+        25.025049209594727,
+        3151.373291015625
+      ],
+      "ypr": [
+        0,
+        0,
+        90
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "M14",
+      "pos": [
+        13685.634765625,
+        25.025049209594727,
+        3151.172119140625
+      ],
+      "ypr": [
+        0,
+        0,
+        90
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "SV98",
+      "pos": [
+        13685.912109375,
+        24.98579216003418,
+        3150.772216796875
+      ],
+      "ypr": [
+        0,
+        0,
+        90
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "SV98",
+      "pos": [
+        13685.912109375,
+        24.98579216003418,
+        3150.975830078125
+      ],
+      "ypr": [
+        0,
+        0,
+        90
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "SVD",
+      "pos": [
+        13685.904296875,
+        24.968177795410156,
+        3151.47412109375
+      ],
+      "ypr": [
+        0,
+        0,
+        90
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "SVD",
+      "pos": [
+        13685.904296875,
+        24.968177795410156,
+        3151.274658203125
+      ],
+      "ypr": [
+        0,
+        0,
+        90
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Mag_STANAG_60Rnd",
+      "pos": [
+        13686.2587890625,
+        24.725439071655273,
+        3152.265625
+      ],
+      "ypr": [
+        -0.000005008955668017734,
+        89.98020935058594,
+        -0.000005008955213270383
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Mag_STANAG_60Rnd",
+      "pos": [
+        13686.2587890625,
+        24.725439071655273,
+        3152.015380859375
+      ],
+      "ypr": [
+        -0.000005008955668017734,
+        89.97201538085938,
+        -0.000005008954303775681
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Mag_STANAG_60Rnd",
+      "pos": [
+        13686.166015625,
+        24.725439071655273,
+        3152.265625
+      ],
+      "ypr": [
+        -0.00000501289878229727,
+        89.98020935058594,
+        -0.000005012897872802569
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Mag_STANAG_60Rnd",
+      "pos": [
+        13686.166015625,
+        24.725439071655273,
+        3152.015380859375
+      ],
+      "ypr": [
+        -0.000005008955668017734,
+        89.96572875976562,
+        -0.00000500895384902833
+      ],
+      "scale": 0.9999996423721313,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Mag_SV98_10Rnd",
+      "pos": [
+        13686.046875,
+        24.711410522460938,
+        3152.3935546875
+      ],
+      "ypr": [
+        -0.000005008955668017734,
+        89.98020935058594,
+        -0.000005008955213270383
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Mag_SV98_10Rnd",
+      "pos": [
+        13685.9287109375,
+        24.711410522460938,
+        3152.3935546875
+      ],
+      "ypr": [
+        -0.000005008955668017734,
+        89.97201538085938,
+        -0.000005008954303775681
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Mag_SV98_10Rnd",
+      "pos": [
+        13686.046875,
+        24.71141242980957,
+        3152.2646484375
+      ],
+      "ypr": [
+        -0.00000501289878229727,
+        89.98020935058594,
+        -0.000005012897872802569
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Mag_SV98_10Rnd",
+      "pos": [
+        13685.9287109375,
+        24.71141242980957,
+        3152.2646484375
+      ],
+      "ypr": [
+        -0.000005008955668017734,
+        89.96572875976562,
+        -0.00000500895384902833
+      ],
+      "scale": 0.9999996423721313,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Mag_SVD_10Rnd",
+      "pos": [
+        13686.0390625,
+        24.70764923095703,
+        3152.119140625
+      ],
+      "ypr": [
+        -0.000005008955668017734,
+        89.98020935058594,
+        -0.000005008955213270383
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Mag_SVD_10Rnd",
+      "pos": [
+        13686.0390625,
+        24.70764923095703,
+        3151.989990234375
+      ],
+      "ypr": [
+        -0.000005008955668017734,
+        89.97201538085938,
+        -0.000005008954303775681
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Mag_SVD_10Rnd",
+      "pos": [
+        13685.939453125,
+        24.70764923095703,
+        3152.119140625
+      ],
+      "ypr": [
+        -0.00000501289878229727,
+        89.98020935058594,
+        -0.000005012897872802569
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Mag_SVD_10Rnd",
+      "pos": [
+        13685.939453125,
+        24.70764923095703,
+        3151.989990234375
+      ],
+      "ypr": [
+        -0.000005008955668017734,
+        89.96572875976562,
+        -0.00000500895384902833
+      ],
+      "scale": 0.9999996423721313,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "M79",
+      "pos": [
+        13686.275390625,
+        25.020750045776367,
+        3150.685546875
+      ],
+      "ypr": [
+        0,
+        0,
+        90
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "PlateCarrierVest_Black",
+      "pos": [
+        13685.9111328125,
+        25.380043029785156,
+        3163.904296875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "PlateCarrierPouches_Black",
+      "pos": [
+        13686.1474609375,
+        25.380043029785156,
+        3163.519287109375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "PlateCarrierHolster_Black",
+      "pos": [
+        13685.7802734375,
+        25.380041122436523,
+        3163.40380859375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "PlateCarrierVest_Winter",
+      "pos": [
+        13685.8857421875,
+        25.380043029785156,
+        3162.5224609375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "PlateCarrierPouches_Winter",
+      "pos": [
+        13685.78125,
+        25.380041122436523,
+        3162.984375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "PlateCarrierHolster_Winter",
+      "pos": [
+        13686.1748046875,
+        25.380043029785156,
+        3162.727783203125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "TortillaBag_Winter",
+      "pos": [
+        13685.6142578125,
+        24.672698974609375,
+        3162.663818359375
+      ],
+      "ypr": [
+        90,
+        -85.99991607666016,
+        -3.647584892550043E-13
+      ],
+      "scale": 0.9999982118606567,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "BallisticHelmet_Winter",
+      "pos": [
+        13686.130859375,
+        25.380043029785156,
+        3163.1845703125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "GorkaPants_Winter",
+      "pos": [
+        13685.97265625,
+        24.566734313964844,
+        3162.007568359375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "GorkaEJacket_Winter",
+      "pos": [
+        13685.9658203125,
+        24.56715965270996,
+        3164.572509765625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_Explosive",
+      "pos": [
+        13688.7958984375,
+        24.714309692382812,
+        3162.263916015625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999994039535522,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_Explosive",
+      "pos": [
+        13688.865234375,
+        24.714309692382812,
+        3162.263916015625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999994039535522,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_Explosive",
+      "pos": [
+        13688.9423828125,
+        24.714309692382812,
+        3162.263916015625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999993443489075,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_Explosive",
+      "pos": [
+        13689.0185546875,
+        24.714309692382812,
+        3162.263916015625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999992847442627,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_Explosive",
+      "pos": [
+        13688.7958984375,
+        24.714309692382812,
+        3162.3603515625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999992847442627,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_Explosive",
+      "pos": [
+        13688.865234375,
+        24.714309692382812,
+        3162.3603515625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_Explosive",
+      "pos": [
+        13688.9423828125,
+        24.714309692382812,
+        3162.3603515625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999991059303284,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_Explosive",
+      "pos": [
+        13689.0185546875,
+        24.714309692382812,
+        3162.3603515625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_Explosive",
+      "pos": [
+        13688.7958984375,
+        24.714309692382812,
+        3162.457275390625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999991059303284,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_Explosive",
+      "pos": [
+        13688.865234375,
+        24.714309692382812,
+        3162.457275390625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_Explosive",
+      "pos": [
+        13688.9423828125,
+        24.714309692382812,
+        3162.457275390625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.999998927116394,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_Explosive",
+      "pos": [
+        13689.0185546875,
+        24.714309692382812,
+        3162.457275390625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999991059303284,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_ChemGas",
+      "pos": [
+        13688.7919921875,
+        24.718576431274414,
+        3162.55029296875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999994039535522,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_ChemGas",
+      "pos": [
+        13688.880859375,
+        24.718576431274414,
+        3162.55029296875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999994039535522,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_ChemGas",
+      "pos": [
+        13688.9619140625,
+        24.718576431274414,
+        3162.55029296875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999993443489075,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_ChemGas",
+      "pos": [
+        13689.033203125,
+        24.718576431274414,
+        3162.55029296875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999992847442627,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_ChemGas",
+      "pos": [
+        13688.7919921875,
+        24.718576431274414,
+        3162.64697265625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999992847442627,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_ChemGas",
+      "pos": [
+        13688.880859375,
+        24.718576431274414,
+        3162.64697265625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_ChemGas",
+      "pos": [
+        13688.9619140625,
+        24.718576431274414,
+        3162.64697265625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999992847442627,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_ChemGas",
+      "pos": [
+        13689.033203125,
+        24.718576431274414,
+        3162.64697265625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_ChemGas",
+      "pos": [
+        13688.7919921875,
+        24.718576431274414,
+        3162.745849609375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_ChemGas",
+      "pos": [
+        13688.880859375,
+        24.718576431274414,
+        3162.745849609375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.999998927116394,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_ChemGas",
+      "pos": [
+        13688.9619140625,
+        24.718576431274414,
+        3162.745849609375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_ChemGas",
+      "pos": [
+        13689.033203125,
+        24.718576431274414,
+        3162.745849609375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999992847442627,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Corridor_Connector",
+      "pos": [
+        13705.1796875,
+        34.45000076293945,
+        3161.68994140625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Panel_Concrete_1",
+      "pos": [
+        13712.998046875,
+        37.10917663574219,
+        3161.58984375
+      ],
+      "ypr": [
+        90.00000762939453,
+        89.98020935058594,
+        -0.000005008955213270383
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Panel_Concrete_1",
+      "pos": [
+        13711.0107421875,
+        37.10917663574219,
+        3158.97998046875
+      ],
+      "ypr": [
+        90.00000762939453,
+        89.97201538085938,
+        -0.000005008955213270383
+      ],
+      "scale": 0.9999996423721313,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Panel_Concrete_1",
+      "pos": [
+        13711.0107421875,
+        37.10917663574219,
+        3164.269287109375
+      ],
+      "ypr": [
+        90.00000762939453,
+        89.96572875976562,
+        -0.000005008955668017734
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Panel_Concrete_1",
+      "pos": [
+        13711.0126953125,
+        38.468109130859375,
+        3161.165771484375
+      ],
+      "ypr": [
+        -179.99996948242188,
+        0,
+        90
+      ],
+      "scale": 0.9999997019767761,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Panel_Lever",
+      "pos": [
+        13712.77734375,
+        35.935546875,
+        3161.887451171875
+      ],
+      "ypr": [
+        -179.99996948242188,
+        0,
+        0
+      ],
+      "scale": 0.9999997019767761,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Furniture_phonebox",
+      "pos": [
+        13712.408203125,
+        34.74677276611328,
+        3161.324951171875
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Furniture_metalcrate",
+      "pos": [
+        13686.048828125,
+        24.564746856689453,
+        3150.06787109375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "MK4Optic_Black",
+      "pos": [
+        13686.18359375,
+        24.73318099975586,
+        3150.182373046875
+      ],
+      "ypr": [
+        -0.000005008955668017734,
+        89.98020935058594,
+        -0.000005008955213270383
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "MK4Optic_Black",
+      "pos": [
+        13686.091796875,
+        24.73318099975586,
+        3150.182373046875
+      ],
+      "ypr": [
+        -0.000005008955668017734,
+        89.97201538085938,
+        -0.000005008954303775681
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "MK4Optic_Black",
+      "pos": [
+        13685.9912109375,
+        24.73318099975586,
+        3150.182373046875
+      ],
+      "ypr": [
+        -0.000005008955668017734,
+        89.96572875976562,
+        -0.00000500895384902833
+      ],
+      "scale": 0.9999996423721313,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "MK4Optic_Black",
+      "pos": [
+        13685.8994140625,
+        24.73318099975586,
+        3150.182373046875
+      ],
+      "ypr": [
+        -0.000005008955213270383,
+        89.96043395996094,
+        -0.000005008952484786278
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "PSO6Optic",
+      "pos": [
+        13686.125,
+        24.728824615478516,
+        3149.93017578125
+      ],
+      "ypr": [
+        90.00000762939453,
+        89.98020935058594,
+        179.99998474121094
+      ],
+      "scale": 0.9999996423721313,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "PSO6Optic",
+      "pos": [
+        13686.125,
+        24.728824615478516,
+        3149.76904296875
+      ],
+      "ypr": [
+        90.00000762939453,
+        89.98020935058594,
+        179.99996948242188
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "ACOGOptic_6x",
+      "pos": [
+        13685.8525390625,
+        24.809158325195312,
+        3149.780517578125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "ACOGOptic_6x",
+      "pos": [
+        13685.8525390625,
+        24.809158325195312,
+        3149.9228515625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "M4_Suppressor",
+      "pos": [
+        13685.662109375,
+        24.596500396728516,
+        3151.784423828125
+      ],
+      "ypr": [
+        -0.000005008955668017734,
+        89.98020935058594,
+        -0.000005008955213270383
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "M4_Suppressor",
+      "pos": [
+        13685.5966796875,
+        24.596500396728516,
+        3151.784423828125
+      ],
+      "ypr": [
+        -0.000005008955668017734,
+        89.97201538085938,
+        -0.000005008954303775681
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "AK_Suppressor",
+      "pos": [
+        13685.677734375,
+        24.585235595703125,
+        3150.380615234375
+      ],
+      "ypr": [
+        -0.000005008955668017734,
+        89.98020935058594,
+        -0.000005008955213270383
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "AK_Suppressor",
+      "pos": [
+        13685.60546875,
+        24.585235595703125,
+        3150.380615234375
+      ],
+      "ypr": [
+        -0.000005008955668017734,
+        89.97201538085938,
+        -0.000005008954303775681
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Panel_Lever",
+      "pos": [
+        13671.673828125,
+        36.17704391479492,
+        3152.16748046875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Mag_M14_20Rnd",
+      "pos": [
+        13686.2529296875,
+        24.709518432617188,
+        3151.7978515625
+      ],
+      "ypr": [
+        -180,
+        90,
+        -180
+      ],
+      "scale": 0.9999997019767761,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Dead_MassGrave_8m",
+      "pos": [
+        13687.697265625,
+        24.800254821777344,
+        3157.387939453125
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "AliceBag_Black",
+      "pos": [
+        13685.8154296875,
+        24.56700325012207,
+        3163.6298828125
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Mag_M14_20Rnd",
+      "pos": [
+        13686.0537109375,
+        24.709518432617188,
+        3151.7978515625
+      ],
+      "ypr": [
+        -0.000005008955213270383,
+        89.97201538085938,
+        -0.00000500895384902833
+      ],
+      "scale": 0.9999996423721313,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Wreck_Mi8_Crashed",
+      "pos": [
+        13687.630859375,
+        23.914321899414062,
+        3157.588623046875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.009999999776482582,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Mag_M14_20Rnd",
+      "pos": [
+        13686.1513671875,
+        24.709518432617188,
+        3151.7978515625
+      ],
+      "ypr": [
+        -0.000005008955668017734,
+        89.98020935058594,
+        -0.000005008955213270383
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Mag_M14_20Rnd",
+      "pos": [
+        13685.9560546875,
+        24.709518432617188,
+        3151.7978515625
+      ],
+      "ypr": [
+        -0.000005008955668017734,
+        89.96572875976562,
+        -0.00000500895384902833
+      ],
+      "scale": 0.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Rubble_Bricks2",
+      "pos": [
+        13701.5791015625,
+        36.81077194213867,
+        3157.287841796875
+      ],
+      "ypr": [
+        59.7390251159668,
+        0,
+        0
+      ],
+      "scale": 1.5,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_L",
+      "pos": [
+        13696.390625,
+        34.35298538208008,
+        3161.960693359375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1.2000000476837158,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_L",
+      "pos": [
+        13688.7529296875,
+        34.35298538208008,
+        3161.960693359375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1.1999999284744263,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_L",
+      "pos": [
+        13684.3798828125,
+        34.35298538208008,
+        3161.960693359375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1.1999998092651367,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_L",
+      "pos": [
+        13677.57421875,
+        34.35298538208008,
+        3161.960693359375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1.1999996900558472,
+      "enableCEPersistency": 0,
+      "customString": ""
+    }
+  ]
+}

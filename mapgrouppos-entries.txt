@@ -1,0 +1,16 @@
+<group name="Land_Mil_Fortified_Nest_Big" pos="13641.991211 42.196716 3032.768799" rpy="-0.000000 0.000000 0.000000" a="90"/>
+<group name="Land_Wreck_offroad02_aban1" pos="13649.542969 43.276634 3045.987549" rpy="-0.000000 0.000000 -79.566437" a="169.566"/>
+<group name="Land_Wreck_offroad02_aban2" pos="13642.813477 42.921219 3046.419189" rpy="-0.000000 0.000000 -102.555099" a="-167.445"/>
+<group name="Land_wreck_truck01_aban1_green" pos="13655.716797 41.804718 3038.457764" rpy="-0.000000 0.000000 -60.823021" a="150.823"/>
+<group name="Land_Wreck_offroad02_aban1" pos="13641.154297 46.254822 3114.828125" rpy="-0.000000 0.000000 29.696205" a="60.3038"/>
+<group name="Land_wreck_truck01_aban2_green" pos="13646.442383 44.419552 3134.538086" rpy="0.000000 0.000000 -8.460000" a="98.46"/>
+<group name="Land_Underground_Entrance" pos="13643.861328 44.447739 3074.115967" rpy="-0.000000 0.000000 -0.000000" a="90"/>
+<group name="Land_Underground_Storage_Hospital" pos="13661.050781 34.445522 3129.173584" rpy="-0.000000 0.000000 90.000000" a="0"/>
+<group name="Land_Underground_Storage_Prison" pos="13687.044922 34.452522 3144.704590" rpy="-0.000000 0.000000 -179.999924" a="-90.0001"/>
+<group name="Land_Underground_Storage_POX2" pos="13704.670898 24.552525 3157.315430" rpy="-0.000000 0.000000 90.000000" a="0"/>
+<group name="Land_Underground_Storage_Ammo2" pos="13670.346680 24.552526 3159.043457" rpy="-0.000000 0.000000 -89.999985" a="180"/>
+<group name="Land_Underground_Storage_Ammo" pos="13661.101563 44.396675 3129.172852" rpy="-0.000000 0.000000 90.000000" a="0"/>
+<group name="Land_Underground_Storage_POX" pos="13661.095703 44.396523 3106.395996" rpy="-0.000000 0.000000 90.000000" a="0"/>
+<group name="Land_Underground_Storage_Workshop" pos="13626.772461 44.396523 3108.119629" rpy="-0.000000 0.000000 -89.999985" a="180"/>
+<group name="Land_Underground_Storage_Barracks" pos="13626.823242 44.396523 3130.899902" rpy="-0.000000 0.000000 -89.999985" a="180"/>
+<group name="Land_Underground_Storage_Laboratory" pos="13688.472656 34.452522 3178.964844" rpy="-0.000000 0.000000 -0.000000" a="90"/>
