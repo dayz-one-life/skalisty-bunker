@@ -368,13 +368,6 @@
             <point pos="-2.552856 0.139709 -1.866150" flags="16" />
         </container>
         <dispatch dechance="1.000000">
-            <proxy type="Mich2001Helmet" pos="-17.787476 0.658417 -2.219725" rpy="0.000000 -260.000000 0.000000" dechance="0.500000" />
-            <proxy type="Mich2001Helmet" pos="-18.421021 0.658417 -2.406675" rpy="0.000000 -290.000000 0.000000" dechance="0.500000" />
-        </dispatch>
-        <dispatch dechance="1.000000">
-            <proxy type="Aug" pos="-12.238892 0.623566 3.656677" rpy="90.000000 -539.999939 0.000000" dechance="1.000000" />
-        </dispatch>
-        <dispatch dechance="1.000000">
             <proxy type="Grenade_ChemGas" pos="0.450073 0.468536 -3.458923" rpy="0.000000 -179.999985 0.000000" dechance="0.250000" />
             <proxy type="Grenade_ChemGas" pos="0.506837 0.468536 -3.274597" rpy="0.000000 -179.999985 0.000000" dechance="0.250000" />
             <proxy type="Grenade_ChemGas" pos="-2.398194 0.272278 -2.031432" rpy="0.000000 -179.999985 0.000000" dechance="0.250000" />
