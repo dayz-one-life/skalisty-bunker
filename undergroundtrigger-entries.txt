@@ -1,5 +1,5 @@
 {
-	"Triggers":
+    "Triggers":
 	[
 		{
 			"Position": [
@@ -76,7 +76,7 @@
 						3074.5
 					],
 					"EyeAccommodation": 0.2,
-					"UseRaycast": 1,
+					"UseRaycast": 0,
 					"Radius": -1
 				},
 				{
@@ -234,7 +234,7 @@
 				0
 			],
 			"Size": [
-				38,
+				41,
 				12,
 				56
 			],
