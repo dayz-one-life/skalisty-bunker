@@ -234,9 +234,9 @@
 				0
 			],
 			"Size": [
-				41,
+				43,
 				12,
-				56
+				58
 			],
 			"EyeAccommodation": 0.0,
 			"Breadcrumbs": [],
