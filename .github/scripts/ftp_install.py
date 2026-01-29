@@ -4,215 +4,193 @@ import ftplib
 import xml.etree.ElementTree as ET
 import sys
 import io
+import datetime
 
-# --- Configuration ---
-CUSTOM_SUBDIR = "custom"
-
-# --- Helper Functions (In-Memory Processing) ---
+# --- Helper Functions ---
 def find_mission_data_folder():
-    """Scans repository for the mission data folder"""
     exclusions = {".git", ".github", "__pycache__", ".idea", ".vscode"}
     candidates = []
-    # Scan root directory
     for item in os.listdir("."):
         if os.path.isdir(item) and item not in exclusions:
-            if os.path.exists(os.path.join(item, CUSTOM_SUBDIR)) or item.startswith("dayzOffline"):
+            if item.startswith("dayzOffline"):
                 candidates.append(item)
-
+    if not candidates:
+        for item in os.listdir("."):
+             if os.path.isdir(item) and item not in exclusions:
+                 candidates.append(item)
     if not candidates: return None
+    candidates.sort(key=lambda x: not x.startswith("dayzOffline"))
     return candidates[0]
 
-def process_json_gameplay(file_content, installed_files):
-    try:
-        data = json.loads(file_content.decode('utf-8'))
-        if "WorldsData" not in data: return None
-
-        changed = False
-        if "objectSpawnersArr" not in data["WorldsData"]: data["WorldsData"]["objectSpawnersArr"] = []
-        if "playerRestrictedAreaFiles" not in data["WorldsData"]: data["WorldsData"]["playerRestrictedAreaFiles"] = []
-
-        for filename in installed_files:
-            rel_path = f"./custom/{filename}"
-            if filename.lower().endswith("-pra.json"):
-                target = data["WorldsData"]["playerRestrictedAreaFiles"]
+def deep_merge_json(target, source):
+    for key, value in source.items():
+        if key in target:
+            if isinstance(target[key], dict) and isinstance(value, dict):
+                deep_merge_json(target[key], value)
+            elif isinstance(target[key], list) and isinstance(value, list):
+                for item in value:
+                    if item not in target[key]:
+                        target[key].append(item)
             else:
-                target = data["WorldsData"]["objectSpawnersArr"]
+                target[key] = value
+        else:
+            target[key] = value
+    return target
 
-            if rel_path not in target:
-                target.append(rel_path)
-                changed = True
+# --- XML Logic ---
+def get_node_signature(node):
+    parts = [node.tag]
+    for k, v in sorted(node.attrib.items()):
+        parts.append(f"{k}:{v}")
+    return "|".join(parts)
 
-        return json.dumps(data, indent=4).encode('utf-8') if changed else None
-    except: return None
+def recursive_xml_merge(target_parent, source_parent):
+    changes = 0
+    target_map = {}
 
-def process_json_triggers(target_content, source_path):
+    # Index Target
+    for child in target_parent:
+        sig = get_node_signature(child)
+        if sig not in target_map:
+            target_map[sig] = child
+
+    # Merge Source
+    for source_child in source_parent:
+        sig = get_node_signature(source_child)
+
+        if sig in target_map:
+            target_child = target_map[sig]
+            # Update Text
+            if source_child.text and source_child.text.strip():
+                if target_child.text != source_child.text:
+                    target_child.text = source_child.text
+                    changes += 1
+            # Recurse
+            changes += recursive_xml_merge(target_child, source_child)
+        else:
+            target_parent.append(source_child)
+            target_map[sig] = source_child
+            changes += 1
+
+    return changes
+
+def process_json_content(target_bytes, source_path):
     try:
-        target_data = json.loads(target_content.decode('utf-8'))
+        target_data = json.loads(target_bytes.decode('utf-8'))
         with open(source_path, 'r', encoding='utf-8') as f: source_data = json.load(f)
-
-        if "Triggers" not in target_data: target_data["Triggers"] = []
-
-        count = 0
-        for trig in source_data.get("Triggers", []):
-            if trig not in target_data["Triggers"]:
-                target_data["Triggers"].append(trig)
-                count += 1
-
-        return json.dumps(target_data, indent=4).encode('utf-8') if count > 0 else None
+        deep_merge_json(target_data, source_data)
+        return json.dumps(target_data, indent=4).encode('utf-8')
     except: return None
 
-def process_xml(target_content, source_path, filename):
+def process_xml_content(target_bytes, source_path):
     try:
         ET.register_namespace('', "")
-        target_tree = ET.ElementTree(ET.fromstring(target_content.decode('utf-8')))
-        target_root = target_tree.getroot()
+        target_tree = ET.ElementTree(ET.fromstring(target_bytes.decode('utf-8')))
         source_tree = ET.parse(source_path)
 
-        existing = set()
-        id_attr = "name"
+        changes = recursive_xml_merge(target_tree.getroot(), source_tree.getroot())
 
-        for child in target_root:
-            val = child.get(id_attr)
-            if filename == "mapgrouppos.xml":
-                pos = child.get("pos")
-                if val and pos: existing.add(f"{val}|{pos}")
-            elif val:
-                existing.add(val)
-
-        count = 0
-        for child in source_tree.getroot():
-            val = child.get(id_attr)
-            unique_key = val
-            if filename == "mapgrouppos.xml":
-                pos = child.get("pos")
-                unique_key = f"{val}|{pos}"
-
-            if unique_key and unique_key not in existing:
-                target_root.append(child)
-                existing.add(unique_key)
-                count += 1
-            elif filename == "cfgspawnabletypes.xml" and val in existing:
-                for existing_node in target_root.findall(f".//*[@{id_attr}='{val}']"):
-                    target_root.remove(existing_node)
-                target_root.append(child)
-                count += 1
-
-        if count > 0:
+        if changes > 0:
             out = io.BytesIO()
             target_tree.write(out, encoding="UTF-8", xml_declaration=True)
             return out.getvalue()
         return None
-    except: return None
+    except Exception as e:
+        print(f"XML Merge Error: {e}")
+        return None
 
 # --- FTP Logic ---
 def run_ftp_install():
-    # 1. Setup Data Directory
+    # 1. Setup
     data_dir = find_mission_data_folder()
     if not data_dir:
-        print("Error: Could not find a mission data folder in the repository.")
+        print("Error: Repo structure invalid. No mission data folder found.")
         sys.exit(1)
 
-    print(f"Using source data from: {data_dir}")
-
-    # 2. Get Inputs
     HOST = os.environ.get("FTP_HOST")
     USER = os.environ.get("FTP_USER")
     PASS = os.environ.get("FTP_PASSWORD")
     PORT = int(os.environ.get("FTP_PORT", 21))
     PATH = os.environ.get("MISSION_PATH", "").strip()
 
-    if not HOST or not USER or not PASS:
-        print("Error: Missing FTP credentials.")
+    if not HOST or not USER or not PASS or not PATH:
+        print("Error: Missing credentials or path.")
         sys.exit(1)
 
-    if not PATH:
-        print("Error: Mission Path is required.")
-        print(f"HINT: Based on this repo, your path should likely end in: .../{data_dir}")
-        print("Common examples:")
-        print(f" - Xbox:  /dayzxb_missions/{data_dir}")
-        print(f" - PS:    /dayzps_missions/{data_dir}")
-        print(f" - PC:    /mpmissions/{data_dir}")
-        sys.exit(1)
-
-    print(f"Connecting to {HOST}:{PORT}...")
-
+    print(f"Connecting to {HOST}...")
     try:
         ftp = ftplib.FTP()
         ftp.connect(HOST, PORT)
         ftp.login(USER, PASS)
-        print("Connected.")
+        ftp.cwd(PATH)
+        print(f"Connected to: {PATH}")
 
-        try:
-            ftp.cwd(PATH)
-            print(f"Working directory: {PATH}")
-        except:
-            print(f"Error: Could not navigate to '{PATH}'. Check path and permissions.")
-            sys.exit(1)
+        # 2. Recursive Sync
+        print(f"Syncing from local folder: {data_dir}")
 
-        # 3. Install Custom Files
-        print("Syncing custom files...")
-        if "custom" not in ftp.nlst(): ftp.mkd("custom")
+        for root, dirs, files in os.walk(data_dir):
+            rel_path = os.path.relpath(root, data_dir)
+            if rel_path == ".": rel_path = ""
 
-        local_custom = os.path.join(data_dir, CUSTOM_SUBDIR)
-        installed_files = []
-        if os.path.exists(local_custom):
-            for fname in os.listdir(local_custom):
-                if fname.endswith(".json"):
-                    with open(os.path.join(local_custom, fname), "rb") as f:
-                        ftp.storbinary(f"STOR custom/{fname}", f)
-                    print(f"Uploaded custom/{fname}")
-                    installed_files.append(fname)
+            ftp_path = rel_path.replace("\\", "/")
 
-        # 4. Update Configs
-        configs = [
-            ("cfggameplay.json", "json_gameplay"),
-            ("cfgundergroundtriggers.json", "json_trigger"),
-            ("mapgrouppos.xml", "xml"),
-            ("mapgroupproto.xml", "xml"),
-            ("cfgspawnabletypes.xml", "xml")
-        ]
+            if ftp_path:
+                try: ftp.mkd(ftp_path)
+                except: pass
 
-        remote_files = ftp.nlst()
+            for fname in files:
+                local_file = os.path.join(root, fname)
+                remote_file_path = f"{ftp_path}/{fname}" if ftp_path else fname
 
-        for fname, type_ in configs:
-            local_src = os.path.join(data_dir, fname)
+                print(f"Processing {remote_file_path}...")
 
-            if type_ != "json_gameplay" and not os.path.exists(local_src):
-                continue
+                exists_remotely = False
+                try:
+                    ftp.size(remote_file_path)
+                    exists_remotely = True
+                except: exists_remotely = False
 
-            if fname in remote_files:
-                print(f"Processing {fname}...")
+                if not exists_remotely:
+                    with open(local_file, "rb") as f:
+                        ftp.storbinary(f"STOR {remote_file_path}", f)
+                    print(f"  -> [NEW] Uploaded")
+                    continue
 
-                # A. Download
-                r = io.BytesIO()
-                ftp.retrbinary(f"RETR {fname}", r.write)
-                content = r.getvalue()
-
-                # B. Modify
                 new_content = None
-                if type_ == "json_gameplay":
-                    new_content = process_json_gameplay(content, installed_files)
-                elif type_ == "json_trigger":
-                    new_content = process_json_triggers(content, local_src)
-                elif type_ == "xml":
-                    new_content = process_xml(content, local_src, fname)
+                if fname.endswith(".json") or fname.endswith(".xml"):
+                    r = io.BytesIO()
+                    ftp.retrbinary(f"RETR {remote_file_path}", r.write)
+                    remote_content = r.getvalue()
 
-                # C. Backup & Upload
+                    if fname.endswith(".json"):
+                        new_content = process_json_content(remote_content, local_file)
+                    else:
+                        new_content = process_xml_content(remote_content, local_file)
+
+                # Generate Timestamp
+                timestamp = datetime.datetime.now().strftime("%Y%m%d-%H%M%S")
+                backup_name = f"{remote_file_path}.{timestamp}.bak"
+
                 if new_content:
-                    backup_name = f"{fname}.bak"
                     try:
-                        if backup_name in ftp.nlst(): ftp.delete(backup_name)
-                        ftp.rename(fname, backup_name)
-                        print(f"  -> Created backup: {backup_name}")
-                    except:
-                        print(f"  -> Warning: Failed to backup {fname}")
+                        ftp.rename(remote_file_path, backup_name)
+                        print(f"  -> Backup created: {backup_name}")
+                    except: pass
 
-                    ftp.storbinary(f"STOR {fname}", io.BytesIO(new_content))
-                    print(f"  -> Updated {fname}")
+                    ftp.storbinary(f"STOR {remote_file_path}", io.BytesIO(new_content))
+                    print(f"  -> [MERGED] Updated")
+
+                elif (not fname.endswith(".json")) and (not fname.endswith(".xml")):
+                    try:
+                        ftp.rename(remote_file_path, backup_name)
+                        print(f"  -> Backup created: {backup_name}")
+                    except: pass
+
+                    with open(local_file, "rb") as f:
+                        ftp.storbinary(f"STOR {remote_file_path}", f)
+                    print(f"  -> [OVERWRITTEN] Updated")
                 else:
-                    print(f"  -> No changes needed for {fname}")
-            else:
-                print(f"Warning: Remote file {fname} not found. Skipping.")
+                    print(f"  -> No changes needed")
 
         ftp.quit()
         print("\n=== Success ===")

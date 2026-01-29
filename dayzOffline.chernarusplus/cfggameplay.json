@@ -1,0 +1,11 @@
+{
+	"WorldsData":
+	{
+		"objectSpawnersArr": [
+			"./custom/skalisty-bunker.json"
+		],
+		"playerRestrictedAreaFiles": [
+			"./custom/skalisty-bunker-pra.json"
+		]
+	}
+}
