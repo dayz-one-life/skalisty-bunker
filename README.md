@@ -15,10 +15,10 @@ This method uses a Python script to automatically copy files and inject the nece
 
 ### Steps
 
-1.  **Download Files:** Ensure all files from this repository (including `install_skalisty_bunker.py`) are in the same folder.
+1.  **Download Files:** Ensure all files from this repository (including `install.py`) are in the same folder.
 2.  **Run Script:** Open your terminal or command prompt in that folder and run:
     ```bash
-    python install_skalisty_bunker.py
+    python install.py
     ```
 3.  **Provide Mission Path:** When prompted, paste the full path to your server's mission directory (e.g., `C:\DayZServer\mpmissions\dayzOffline.chernarusplus`).
 
@@ -28,6 +28,7 @@ The script will automatically:
 * Update `cfggameplay.json` to spawn the bunker objects and restrict the area.
 * Add the necessary underground triggers to `cfgundergroundtriggers.json`.
 * Add the required loot and map groups to `mapgrouppos.xml` and `mapgroupproto.xml`.
+* Update `cfgspawnabletypes.xml` to include the bunker keys and punch cards on specific zombies.
 
 ---
 
@@ -74,13 +75,11 @@ Open `cfggameplay.json` in your mission folder and make the following changes:
 3.  Copy the entire group definitions (e.g., `<group name="..."> ... </group>`) from the source file.
 4.  Paste them inside the `<prototype>` tag of your mission file.
 
+### 6. Update `cfgspawnabletypes.xml`
+1.  Open `cfgspawnabletypes-entries.xml` from this repository.
+2.  Open `cfgspawnabletypes.xml` in your mission folder.
+3.  Copy the `<type>` blocks from the source file and paste them into your mission file inside the `<spawnabletypes>` tag.
+    * *Note: If the type `ZmbM_eastSoldier_Heavy_Navy` (or others) already exists in your file, merge the new `<cargo>` entries into the existing type definition instead of duplicating it.*
+
 ---
 **Installation Complete!** Restart your server to see the changes.
-
-## ⚠️ Important: Enabling Access Keys
-
-Accessing the bunker requires two specific items that **do not spawn by default** on this map:
-1. `PunchedCard`
-2. `ShippingContainerKeys_Red`
-
-You must create a way of obtaining these items either through the types.xml file, or by added them as cargo to certain zeds or containers.

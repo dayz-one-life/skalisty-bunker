@@ -55,6 +55,7 @@ def update_cfggameplay(mission_path):
         # Update objectSpawnersArr
         obj_spawners = data["WorldsData"].get("objectSpawnersArr", [])
         target_spawner = "./custom/skalisty-bunker.json"
+
         if target_spawner not in obj_spawners:
             obj_spawners.append(target_spawner)
             data["WorldsData"]["objectSpawnersArr"] = obj_spawners
@@ -66,6 +67,7 @@ def update_cfggameplay(mission_path):
         # Update playerRestrictedAreaFiles
         pra_files = data["WorldsData"].get("playerRestrictedAreaFiles", [])
         target_pra = "./custom/skalisty-bunker-pra.json"
+
         if target_pra not in pra_files:
             pra_files.append(target_pra)
             data["WorldsData"]["playerRestrictedAreaFiles"] = pra_files
@@ -205,13 +207,68 @@ def update_mapgroupproto(mission_path):
                 target_root.append(group)
                 existing_names.add(name)
                 added_count += 1
+            else:
+                pass
 
         if added_count > 0:
             indent(target_root)
             target_tree.write(xml_path, encoding="UTF-8", xml_declaration=True)
             print(f"Added {added_count} groups to mapgroupproto.xml")
         else:
-            print("No new groups added to mapgroupproto.xml.")
+            print("No new groups added to mapgroupproto.xml (definitions already exist).")
+
+    except ET.ParseError as e:
+        print(f"XML Parse Error: {e}")
+
+def update_cfgspawnabletypes(mission_path):
+    print("\n--- Step 7: Updating cfgspawnabletypes.xml ---")
+    xml_path = os.path.join(mission_path, "cfgspawnabletypes.xml")
+    source_file = "cfgspawnabletypes-entries.xml"
+
+    if not os.path.exists(xml_path):
+        print(f"Error: Target {xml_path} missing.")
+        return
+    if not os.path.exists(source_file):
+        print(f"Error: Source {source_file} missing.")
+        return
+
+    try:
+        ET.register_namespace('', "")
+        target_tree = ET.parse(xml_path)
+        target_root = target_tree.getroot()
+
+        source_tree = ET.parse(source_file)
+        source_root = source_tree.getroot()
+
+        updated_count = 0
+        added_count = 0
+
+        for source_type in source_root.findall("type"):
+            type_name = source_type.get("name")
+
+            target_match = None
+            for target_type in target_root.findall("type"):
+                if target_type.get("name") == type_name:
+                    target_match = target_type
+                    break
+
+            if target_match is not None:
+                # Remove old, append new (simple merge strategy)
+                target_root.remove(target_match)
+                target_root.append(source_type)
+                updated_count += 1
+                print(f"Updated type: {type_name}")
+            else:
+                target_root.append(source_type)
+                added_count += 1
+                print(f"Added type: {type_name}")
+
+        if added_count > 0 or updated_count > 0:
+            indent(target_root)
+            target_tree.write(xml_path, encoding="UTF-8", xml_declaration=True)
+            print(f"Finished: {added_count} added, {updated_count} updated in cfgspawnabletypes.xml")
+        else:
+            print("No changes needed for cfgspawnabletypes.xml.")
 
     except ET.ParseError as e:
         print(f"XML Parse Error: {e}")
@@ -240,6 +297,7 @@ def main():
     update_underground_triggers(mission_path)
     update_mapgrouppos(mission_path)
     update_mapgroupproto(mission_path)
+    update_cfgspawnabletypes(mission_path)
 
     print("\n=== Installation Complete ===")
 
